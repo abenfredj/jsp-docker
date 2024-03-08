@@ -2,7 +2,7 @@
 <head>
 <title>Hello Devops Team!</title>
 </head>
-<body style="background-color:#33475b">
+<body style="background-color:yellow">
 	<h1>Hello Devops Team!</h1>
 	<p>
 		It is now
